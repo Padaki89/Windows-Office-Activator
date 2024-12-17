@@ -18,7 +18,7 @@ irm https://get.activated.win | iex
 3.   You will see the activation options. Choose (1) HWID for Windows activation. Choose (2) Ohook for Office activation.
 4.   That's all.
 
-```
+---
 
 ### Method 2 - Traditional (Windows 7 and later)
 
@@ -48,6 +48,7 @@ or
 ---
 Latest Version: 2.8
 Release date: 9-Nov-2024
+```
 ---
 ```
 <p align="center">Made with Love ❤️</p>
