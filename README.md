@@ -68,23 +68,6 @@ Release date: 9-Nov-2024
 ### [Troubleshooting / Help](https://massgrave.dev/troubleshoot)
 ### [Download Original Windows & Office](https://massgrave.dev/genuine-installation-media)
 ### Homepage - [https://massgrave.dev/](https://massgrave.dev/)
-
-<div align="center">
-  
-[![1.1]][1]
-[![1.2]][2]
-[![1.3]][3]
-[![1.4]][4]
-
-</div>
-
-[1.1]: https://massgrave.dev/img/logo_discord.png (Chat with us without signup)
-[1.2]: https://massgrave.dev/img/logo_github.png (GitHub)
-[1.3]: https://massgrave.dev/img/logo_reddit.png (Reddit)
-[1.4]: https://massgrave.dev/img/logo_x.png (Follow us on X)
-
-[1]: https://discord.gg/tVFN4N84PP
-[2]: https://github.com/massgravel/Microsoft-Activation-Scripts
 [3]: https://www.reddit.com/r/MAS_Activator
 [4]: https://twitter.com/massgravel
 
