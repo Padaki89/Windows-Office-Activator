@@ -57,20 +57,9 @@ or
 > - Be cautious, as some spread malware disguised as MAS by using different URLs in the IRM command.
 
 ---
-
-To run the scripts in unattended mode, check [here](https://massgrave.dev/command_line_switches).
-
-```
 Latest Version: 2.8
 Release date: 9-Nov-2024
 ```
-
-### [Troubleshooting / Help](https://massgrave.dev/troubleshoot)
-### [Download Original Windows & Office](https://massgrave.dev/genuine-installation-media)
-### Homepage - [https://massgrave.dev/](https://massgrave.dev/)
-[3]: https://www.reddit.com/r/MAS_Activator
-[4]: https://twitter.com/massgravel
-
 ---
 
 <p align="center">Made with Love ❤️</p>
