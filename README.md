@@ -3,24 +3,25 @@
 <h1 align="center">Microsoft  Activation  Scripts (MAS)</h1>
 
 <p align="center">Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.</p>
+
+<hr>
   
-## Download / How to use it?
+## How to use it?
 
 ### Method 1 - PowerShell (Windows 8 and later) ❤️
 
 1.   Open PowerShell (Not CMD). To do that, right-click on the Windows start menu and select PowerShell or Terminal.
 2.   Copy and paste the code below and press enter  
 ```
+irm https://get.activated.win | iex
 ```
 3.   You will see the activation options. Choose (1) HWID for Windows activation. Choose (2) Ohook for Office activation.
 4.   That's all.
-<details>
-  <summary>More options</summary>
-```
-- The URL `get.activated.win` might be blocked by some DNS services because it is a new domain.
-</details>
+
 ---
+
 ### Method 2 - Traditional (Windows 7 and later)
+
 <details>
   <summary>Click here for info</summary>
 
