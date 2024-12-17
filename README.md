@@ -46,7 +46,7 @@ or
 > - Be cautious, as some spread malware disguised as MAS by using different URLs in the IRM command.
 
 ---
-Latest Version: 2.8
-Release date: 9-Nov-2024
+Latest Version: 1.0
+Release date: 16-Dec-2024
 
 <p align="center">Made with Love ❤️</p>
