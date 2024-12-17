@@ -48,7 +48,6 @@ or
 ---
 Latest Version: 2.8
 Release date: 9-Nov-2024
-```
 ---
-
+```
 <p align="center">Made with Love ❤️</p>
