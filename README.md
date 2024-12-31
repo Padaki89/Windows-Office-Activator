@@ -49,4 +49,4 @@ or
 Latest Version: 1.0
 Release date: 16-Dec-2024
 
-<p align="center">Made with Love ❤️</p>
+<p align="center">Support Made with Trust ❤️</p>
